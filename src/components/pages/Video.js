@@ -46,7 +46,7 @@ export default function Video() {
           </div>
 
           {video?.id ? (
-            <RelatedVideos />
+            <RelatedVideos video={video} />
           ) : isLoading ? (
             <>
               <RelatedVideoLoader />
