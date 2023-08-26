@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "title": "VS Code Snippets",
       "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
       "author": "Learn with Sumit",
       "date": "April 25, 2022",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla ",
       "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
       "author": "Learn with Sumit",
       "date": "March 11, 2022",
@@ -40,7 +40,7 @@
       "author": "Learn with Sumit",
       "date": "Jan 06, 2022",
       "duration": "10:12",
-      "views": "2.1k",
+      "views": "2.5k",
       "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
       "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg"
     },
@@ -87,17 +87,6 @@
       "duration": "10:43",
       "views": "10.4k",
       "id": 8
-    },
-    {
-      "title": "test",
-      "author": "test",
-      "description": "test",
-      "link": "tete",
-      "thumbnail": "ete",
-      "date": "te",
-      "duration": "te",
-      "views": "t",
-      "id": 9
     }
   ]
 }
